@@ -13,3 +13,4 @@ C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanA
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CopyComplete
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json

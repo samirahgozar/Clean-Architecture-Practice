@@ -5,17 +5,11 @@ C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Api.
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Api.runtimeconfig.json
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Api.dll
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Api.pdb
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.csproj.AssemblyReference.cache
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.AssemblyInfoInputs.cache
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.AssemblyInfo.cs
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.csproj.CoreCompileInputs.cache
-C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -39,3 +33,4 @@ C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Cont
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Application.pdb
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.sourcelink.json

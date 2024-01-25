@@ -9,3 +9,4 @@ C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArc
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\refint\CleanArch.Contracts.dll
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.pdb
 C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\ref\CleanArch.Contracts.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.sourcelink.json

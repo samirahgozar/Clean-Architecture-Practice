@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fv7jLorDSc1nw9DhdbcnIhqhh1xi/tuY1VNzIhV74pU96NAZmlFpTd17s8D7Jl3pF93bG4hmphq3nV04pTuvqw==",
+  "dgSpecHash": "PMkHKeEgUSYYvIrBgW6vGlFYMjZDuuhyT54rIirMl7vWL0i5bcqSl7v90v7PY0wIRfCZHO+rkMgeW2x99lUTZQ==",
   "success": true,
   "projectFilePath": "C:\\CLEAN ARCHITECTUREAPI\\CleanArch\\CleanArch.Api\\CleanArch.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Miracle\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\Miracle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
