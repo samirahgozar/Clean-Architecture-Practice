@@ -1,0 +1,11 @@
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\bin\Debug\net8.0\CleanArch.Contracts.deps.json
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\bin\Debug\net8.0\CleanArch.Contracts.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\bin\Debug\net8.0\CleanArch.Contracts.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.AssemblyInfoInputs.cache
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.AssemblyInfo.cs
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.csproj.CoreCompileInputs.cache
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\refint\CleanArch.Contracts.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\CleanArch.Contracts.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Contracts\obj\Debug\net8.0\ref\CleanArch.Contracts.dll

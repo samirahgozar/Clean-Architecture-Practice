@@ -1,0 +1,17 @@
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.deps.json
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\refint\CleanArch.Infrastructure.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\ref\CleanArch.Infrastructure.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Application.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\CLEAN ARCHITECTUREAPI\CleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CopyComplete
