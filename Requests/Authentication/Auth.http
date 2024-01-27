@@ -1,0 +1,19 @@
+POST http://localhost:5238/auth/register
+Content-Type:Application/json
+
+{
+     "FirstName":"Saman",
+     "LastName":"Rahgozar",
+     "Email":"hedayati.asp@gmail.com",
+     "Password":"Aa12345"
+}
+
+###
+POST http://localhost:5238/auth/login
+Content-Type:Application/json
+
+{
+     "Email":"hedayati.asp@gmail.com",
+     "Password":"Aa12345"
+}
+

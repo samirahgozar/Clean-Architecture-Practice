@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd0fe3c1f21273f49ae94bb6a7dd383e732d1fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
